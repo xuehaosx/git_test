@@ -1,1 +1,23 @@
+# 本地插件缓存
 .video_agent/
+
+# 依赖目录
+node_modules/
+
+# 环境变量与敏感信息
+.env
+.env.*
+
+# 系统垃圾文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器/IDE
+.idea/
+.vscode/
+*.swp
+
+# 日志与临时文件
+*.log
+tmp/
